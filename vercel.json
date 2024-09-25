@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "pages/api/add_plugin.js": {
+      "maxDuration": 60
+    }
+  }
+}
